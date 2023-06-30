@@ -379,3 +379,4 @@ fn flexible_quorums() {
     };
     // END_CODE_EXAMPLE
 }
+
